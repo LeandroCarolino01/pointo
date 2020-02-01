@@ -1,0 +1,11 @@
+{
+    "reviews": [
+        {
+            "user": 1,
+            "text": "This is the first review",
+            "tags": [],
+            "upvote": 0,
+            "downvote":0
+        }
+    ]
+}
